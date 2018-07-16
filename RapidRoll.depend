@@ -1,0 +1,329 @@
+# depslib dependency file v1.0
+1528925680 source:e:\trabajos\c++\sfml\rapidroll\rapidroll\juego.cpp
+	"Juego.h"
+	"SFML\Graphics.hpp"
+	<string>
+	<sstream>
+	<iostream>
+
+1528924568 e:\trabajos\c++\sfml\rapidroll\rapidroll\juego.h
+	<vector>
+	"SFML\Graphics.hpp"
+	"SFML\Audio.hpp"
+	<string>
+	"Bloque.h"
+	"Vida.h"
+
+1528922891 source:e:\trabajos\c++\sfml\rapidroll\rapidroll\main.cpp
+	<iostream>
+	<queue>
+	"Juego.h"
+	"SFML\Graphics.hpp"
+	"SFML\Audio.hpp"
+
+1528928170 source:e:\trabajos\c++\sfml\rapidroll\rapidroll\bloque.cpp
+	"Bloque.h"
+	<string>
+	<stdlib.h>
+	<sstream>
+
+1528928170 e:\trabajos\c++\sfml\rapidroll\rapidroll\bloque.h
+	"SFML\Graphics.hpp"
+
+1528913602 e:\trabajos\c++\sfml\rapidroll\rapidroll\vida.h
+	<SFML/Graphics.hpp>
+
+1528928187 source:e:\trabajos\c++\sfml\rapidroll\rapidroll\vida.cpp
+	"Vida.h"
+	<sstream>
+
+1528920116 source:e:\trabajos\c++\sfml\rapidroll\rapidroll\player.cpp
+	"Player.h"
+
+1528920116 e:\trabajos\c++\sfml\rapidroll\rapidroll\player.h
+
+1528930492 source:c:\users\acer\desktop\rapidroll\bloque.cpp
+	"Bloque.h"
+	<string>
+	<stdlib.h>
+	<sstream>
+
+1528931246 c:\users\acer\desktop\rapidroll\bloque.h
+	"SFML\Graphics.hpp"
+
+1528925680 source:c:\users\acer\desktop\rapidroll\juego.cpp
+	"Juego.h"
+	"SFML\Graphics.hpp"
+	<string>
+	<sstream>
+	<iostream>
+
+1528924568 c:\users\acer\desktop\rapidroll\juego.h
+	<vector>
+	"SFML\Graphics.hpp"
+	"SFML\Audio.hpp"
+	<string>
+	"Bloque.h"
+	"Vida.h"
+
+1528913602 c:\users\acer\desktop\rapidroll\vida.h
+	<SFML/Graphics.hpp>
+
+1528920116 source:c:\users\acer\desktop\rapidroll\player.cpp
+	"Player.h"
+
+1528920116 c:\users\acer\desktop\rapidroll\player.h
+
+1528929771 source:c:\users\acer\desktop\rapidroll\vida.cpp
+	"Vida.h"
+	<sstream>
+
+1528932033 source:c:\users\acer\desktop\rapidroll\main.cpp
+	<iostream>
+	<queue>
+	"Juego.h"
+	"Menu.h"
+	"SFML\Graphics.hpp"
+	"SFML\Audio.hpp"
+
+1528929716 c:\users\acer\desktop\rapidroll\menu.h
+	<SFML/Graphics.hpp>
+
+1528929631 source:c:\users\acer\desktop\rapidroll\menu.cpp
+	"Menu.h"
+
+1529271386 source:e:\trabajos\c++\sfml\rapidroll\bloque.cpp
+	"Bloque.h"
+	<string>
+	<stdlib.h>
+	<sstream>
+
+1529271567 e:\trabajos\c++\sfml\rapidroll\bloque.h
+	"SFML\Graphics.hpp"
+
+1529271472 source:e:\trabajos\c++\sfml\rapidroll\juego.cpp
+	"Juego.h"
+	"SFML\Graphics.hpp"
+	<string>
+	<sstream>
+	<iostream>
+
+1529255644 e:\trabajos\c++\sfml\rapidroll\juego.h
+	<vector>
+	"SFML\Graphics.hpp"
+	"SFML\Audio.hpp"
+	<string>
+	"Bloque.h"
+	"Vida.h"
+
+1528913602 e:\trabajos\c++\sfml\rapidroll\vida.h
+	<SFML/Graphics.hpp>
+
+1529254862 source:e:\trabajos\c++\sfml\rapidroll\main.cpp
+	<iostream>
+	<queue>
+	"Juego.h"
+	"Menu.h"
+	"SFML\Graphics.hpp"
+	"SFML\Audio.hpp"
+
+1528929716 e:\trabajos\c++\sfml\rapidroll\menu.h
+	<SFML/Graphics.hpp>
+
+1529254693 source:e:\trabajos\c++\sfml\rapidroll\menu.cpp
+	"Menu.h"
+
+1528920116 source:e:\trabajos\c++\sfml\rapidroll\player.cpp
+	"Player.h"
+
+1529243459 e:\trabajos\c++\sfml\rapidroll\player.h
+
+1528929771 source:e:\trabajos\c++\sfml\rapidroll\vida.cpp
+	"Vida.h"
+	<sstream>
+
+1531493748 source:e:\trabajos\c++\sfml\rapidroll_2\main.cpp
+	"SFML/Graphics.hpp"
+	"SFML/Audio.hpp"
+	<iostream>
+	<string.h>
+	"Menu.h"
+	"Juego.h"
+
+1531523948 e:\trabajos\c++\sfml\rapidroll_2\juego.h
+	<vector>
+	"SFML\Graphics.hpp"
+	"SFML\Audio.hpp"
+	<string>
+	"Bloque.h"
+	"Vida.h"
+	<SFML/System.hpp>
+	"Tiempo.h"
+	"Player.h"
+
+1531465408 e:\trabajos\c++\sfml\rapidroll_2\bloque.h
+	"SFML\Graphics.hpp"
+	"Vida.h"
+
+1531468924 e:\trabajos\c++\sfml\rapidroll_2\vida.h
+	<SFML/Graphics.hpp>
+
+1531493757 e:\trabajos\c++\sfml\rapidroll_2\menu.h
+	"SFML/Graphics.hpp"
+	"SFML/Audio.hpp"
+	<iostream>
+	<string.h>
+
+1531493764 source:e:\trabajos\c++\sfml\rapidroll_2\menu.cpp
+	"Menu.h"
+
+1531493930 source:e:\trabajos\c++\sfml\rapidroll_2\player.cpp
+	"player.h"
+	<iostream>
+
+1531493172 e:\trabajos\c++\sfml\rapidroll_2\player.h
+	"Vida.h"
+	"Interfaz.h"
+	<SFML/Graphics.hpp>
+
+1531492591 source:e:\trabajos\c++\sfml\rapidroll_2\vida.cpp
+	"Vida.h"
+	<sstream>
+	<iostream>
+
+1531468408 source:e:\trabajos\c++\sfml\rapidroll_2\bloque.cpp
+	"Bloque.h"
+	<string>
+	<stdlib.h>
+	<sstream>
+	<iostream>
+
+1531495978 source:e:\trabajos\c++\sfml\rapidroll_2\juego.cpp
+	"Juego.h"
+	"SFML\Graphics.hpp"
+	<string>
+	<SFML/System.hpp>
+	<sstream>
+	<iostream>
+
+1529430973 e:\trabajos\c++\sfml\rapidroll_2\tiempo.h
+	<string>
+
+1529434358 source:e:\trabajos\c++\sfml\rapidroll_2\tiempo.cpp
+	"Tiempo.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1530886280 source:e:\trabajos\c++\sfml\rapidroll_2\memento.cpp
+	<vector>
+	"Juego.h"
+
+1531493546 source:e:\trabajos\c++\sfml\rapidroll_2\interfaz.cpp
+	"Interfaz.h"
+
+1531492795 e:\trabajos\c++\sfml\rapidroll_2\interfaz.h
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	"Vida.h"
+
+1531725952 source:e:\trabajos\c++\sfml\rapidroll_3\bloque.cpp
+	"Bloque.h"
+	<string>
+	<stdlib.h>
+	"ia.h"
+	"SFML\Graphics.hpp"
+	<sstream>
+	<iostream>
+
+1531725370 e:\trabajos\c++\sfml\rapidroll_3\bloque.h
+	"SFML\Graphics.hpp"
+	"Vida.h"
+	"ia.h"
+
+1531725470 e:\trabajos\c++\sfml\rapidroll_3\vida.h
+	<SFML/Graphics.hpp>
+
+1531590677 source:e:\trabajos\c++\sfml\rapidroll_3\interfaz.cpp
+	"Interfaz.h"
+	<sstream>
+
+1531590677 e:\trabajos\c++\sfml\rapidroll_3\interfaz.h
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	"Vida.h"
+
+1531758986 source:e:\trabajos\c++\sfml\rapidroll_3\juego.cpp
+	"Juego.h"
+	"SFML\Graphics.hpp"
+	<string>
+	<SFML/System.hpp>
+	<sstream>
+	<iostream>
+
+1531753586 e:\trabajos\c++\sfml\rapidroll_3\juego.h
+	<vector>
+	"SFML\Graphics.hpp"
+	"SFML\Audio.hpp"
+	<string>
+	"Bloque.h"
+	"Vida.h"
+	<SFML/System.hpp>
+	"Tiempo.h"
+	"Player.h"
+	<iostream>
+
+1529430973 e:\trabajos\c++\sfml\rapidroll_3\tiempo.h
+	<string>
+
+1531726273 e:\trabajos\c++\sfml\rapidroll_3\player.h
+	"Vida.h"
+	"Interfaz.h"
+	<SFML/Graphics.hpp>
+
+1531751002 source:e:\trabajos\c++\sfml\rapidroll_3\main.cpp
+	"SFML/Graphics.hpp"
+	"SFML/Audio.hpp"
+	<iostream>
+	<string.h>
+	"Menu.h"
+	"Juego.h"
+
+1531750659 e:\trabajos\c++\sfml\rapidroll_3\menu.h
+	"SFML/Graphics.hpp"
+	"SFML/Audio.hpp"
+	<iostream>
+	<string.h>
+	<vector>
+
+1530886280 source:e:\trabajos\c++\sfml\rapidroll_3\memento.cpp
+	<vector>
+	"Juego.h"
+
+1531750659 source:e:\trabajos\c++\sfml\rapidroll_3\menu.cpp
+	"Menu.h"
+
+1531726319 source:e:\trabajos\c++\sfml\rapidroll_3\player.cpp
+	"player.h"
+	<iostream>
+
+1531588743 source:e:\trabajos\c++\sfml\rapidroll_3\tiempo.cpp
+	"Tiempo.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1531726047 source:e:\trabajos\c++\sfml\rapidroll_3\vida.cpp
+	"Vida.h"
+	<sstream>
+	<iostream>
+
+1531754003 e:\trabajos\c++\sfml\rapidroll_3\ia.h
+	"Vida.h"
+	"Interfaz.h"
+	<SFML/Graphics.hpp>
+
+1531754914 source:e:\trabajos\c++\sfml\rapidroll_3\ia.cpp
+	"ia.h"
+	<iostream>
+
